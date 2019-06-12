@@ -33,3 +33,7 @@ end
 def using_insert(array, another_word)
   using_insert = array.insert(4, another_word)
 end
+
+def using_uniq(array)
+  array.uniq
+end
