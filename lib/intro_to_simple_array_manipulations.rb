@@ -31,5 +31,5 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, another_word)
-  using_insert = array.insert(another_word)
+  using_insert = array.insert(4, another_word)
 end
