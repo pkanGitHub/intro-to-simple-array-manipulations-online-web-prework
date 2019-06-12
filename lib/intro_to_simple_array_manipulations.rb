@@ -9,3 +9,8 @@ def using_unshift(array, new_neighborhood)
   new_neighborhood = "Brooklyn Heights"
   using_unshift = array.unshift(new_neighborhood)
 end
+
+def using_pop(great_hits_of_the_nineties)
+  array = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
+  using_pop = array.pop
+end
