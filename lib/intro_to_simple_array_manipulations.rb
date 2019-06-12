@@ -23,13 +23,13 @@ def using_shift(array)
 end
 
 # def
-# 
+#
 # end
-# 
+#
 # def
-# 
+#
 # end
-# 
+#
 # def
-# 
+#
 # end
