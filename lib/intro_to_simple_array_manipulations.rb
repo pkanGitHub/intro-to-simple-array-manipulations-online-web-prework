@@ -11,7 +11,5 @@ def using_unshift(array, new_neighborhood)
 end
 
 def using_pop(great_hits_of_the_nineties)
-  array = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
-  array.pop
-  p "size :#{great_hits_of_the_nineties.size} length: #{great_hits_of_the_nineties.length}"
+  great_hits_of_the_nineties.pop
 end
