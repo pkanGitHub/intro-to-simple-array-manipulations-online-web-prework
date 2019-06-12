@@ -19,12 +19,12 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-  using_shift = array.shift
+  array.shift
 end
 
-# def
-#
-# end
+def shift_with_args(array)
+  array.shift(2)
+end
 #
 # def
 #
