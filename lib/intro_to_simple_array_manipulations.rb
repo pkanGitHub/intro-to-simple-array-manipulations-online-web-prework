@@ -30,6 +30,6 @@ def using_concat(array1, array2)
   array1.concat(array2)
 end
 
-def using_insert(array, arg)
-  array.insert
+def using_insert(array, another_string)
+  array.insert(another_string)
 end
