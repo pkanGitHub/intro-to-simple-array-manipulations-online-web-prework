@@ -22,14 +22,14 @@ def using_shift(array)
   using_shift = array.shift
 end
 
-def
-
-end
-
-def
-
-end
-
-def
-
-end
+# def
+# 
+# end
+# 
+# def
+# 
+# end
+# 
+# def
+# 
+# end
