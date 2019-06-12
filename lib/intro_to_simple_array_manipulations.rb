@@ -10,6 +10,6 @@ def using_unshift(array, new_neighborhood)
   using_unshift = array.unshift(new_neighborhood)
 end
 
-def using_pop(great_hits_of_the_nineties)
-  great_hits_of_the_nineties.pop
+def using_pop(array)
+  using_pop = array.pop
 end
